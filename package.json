@@ -1,0 +1,17 @@
+{
+  "name": "requirejs-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+
+  "scripts": {
+    "dev": "webpack-dev-server --open --history-api-fallback",
+    "build": "webpack"
+  },
+  
+  "author": "",
+  "license": "ISC"
+}
